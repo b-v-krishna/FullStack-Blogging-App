@@ -1,9 +1,7 @@
 # FullStack Blogging App
 
 ## Project Overview
-This is a full-stack blogging application with a **CI/CD** pipeline for automated deployment.  
-The application allows users to register, log in, create blog posts, and explore content.  
-It is designed using modern web technologies and DevOps best practices.
+This is a full-stack blogging application with a **CI/CD** pipeline for automated deployment. This application allows users to register, log in, create blog posts, and explore content. It is designed using modern web technologies and DevOps best practices.
 
 ## 🚀 CI/CD Pipeline Architecture
 Below is the CI/CD pipeline implemented for automated build, test, and deployment:  
@@ -29,3 +27,24 @@ Ensure you have the following installed on your local machine:
 ```bash
 git clone https://github.com/b-v-krishna/FullStack-Blogging-App.git
 cd FullStack-Blogging-App
+```
+**Setup MySQL Database**
+Create a database in MySQL named blogging_app
+Update the application.properties file in the backend with DB credentials.
+
+**Run the Backend (Spring Boot)**
+```
+cd backend
+mvn clean install
+mvn spring-boot:run
+```
+**Run the Frontend (React.js)**
+```
+cd frontend
+npm install
+npm start
+```
+**Access the Application**
+-> Frontend: http://localhost:3000
+-> Backend API: http://localhost:8080
+
