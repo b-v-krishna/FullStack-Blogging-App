@@ -57,7 +57,7 @@ npm start
 - Infrastructure as Code (IaC): Terraform
 - Containerization: Docker
 - Orchestration: Kubernetes (AWS EKS)
-- Security & Code Analysis: SonarQube
+- Security & Code Analysis: SonarQube,Trivy
 - Artifact Management: Nexus Repository
   
 ### <h3>License</h3>
