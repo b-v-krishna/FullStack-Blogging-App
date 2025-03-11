@@ -10,9 +10,8 @@ Below is the CI/CD pipeline implemented for automated build, test, and deploymen
 
 ---
 
-🚀 DevOps Tools Used
+🛠️ DevOps Tools Explored
 
-### DevOps & Infrastructure
 - Version Control: GitHub
 - CI/CD Pipeline: Jenkins
 - Infrastructure as Code (IaC): Terraform
@@ -60,6 +59,6 @@ npm start
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8080
   
-### <h3>License</h3>
+### 📜 <h3>License</h3>
 
 This project is licensed under the MIT License.
