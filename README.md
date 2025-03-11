@@ -40,8 +40,7 @@ git clone https://github.com/b-v-krishna/FullStack-Blogging-App.git
 cd FullStack-Blogging-App
 ```
 **Setup MySQL Database**
-Create a database in MySQL named blogging_app
-Update the application.properties file in the backend with DB credentials.
+Create a database in MySQL named blogging_app. Update the application.properties file in the backend with DB credentials.
 
 **Run the Backend (Spring Boot)**
 ```
