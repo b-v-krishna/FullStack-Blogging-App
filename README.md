@@ -60,6 +60,5 @@ DevOps & Infrastructure
 - Security & Code Analysis: SonarQube
 - Artifact Management: Nexus Repository
   
-**
-License**
+<h3>License</h3>
 This project is licensed under the MIT License.
