@@ -10,7 +10,18 @@ Below is the CI/CD pipeline implemented for automated build, test, and deploymen
 
 ---
 
-## 🛠️ Local Setup
+🚀 DevOps Tools Used
+
+### DevOps & Infrastructure
+- Version Control: GitHub
+- CI/CD Pipeline: Jenkins
+- Infrastructure as Code (IaC): Terraform
+- Containerization: Docker
+- Orchestration: Kubernetes (AWS EKS)
+- Security & Code Analysis: SonarQube,Trivy
+- Artifact Management: Nexus Repository
+  
+## Local Setup
 
 ### Prerequisites
 Ensure you have the following installed on your local machine:
@@ -48,17 +59,6 @@ npm start
 **Access the Application**
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8080
-
-🚀 DevOps Tools Used
-
-### DevOps & Infrastructure
-- Version Control: GitHub
-- CI/CD Pipeline: Jenkins
-- Infrastructure as Code (IaC): Terraform
-- Containerization: Docker
-- Orchestration: Kubernetes (AWS EKS)
-- Security & Code Analysis: SonarQube,Trivy
-- Artifact Management: Nexus Repository
   
 ### <h3>License</h3>
 
