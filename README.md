@@ -51,7 +51,7 @@ npm start
 
 🚀 DevOps Tools Used
 
-DevOps & Infrastructure
+### DevOps & Infrastructure
 - Version Control: GitHub
 - CI/CD Pipeline: Jenkins
 - Infrastructure as Code (IaC): Terraform
@@ -60,6 +60,6 @@ DevOps & Infrastructure
 - Security & Code Analysis: SonarQube
 - Artifact Management: Nexus Repository
   
-<h3>License</h3>
+### <h3>License</h3>
 
 This project is licensed under the MIT License.
