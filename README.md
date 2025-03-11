@@ -20,6 +20,7 @@ Ensure you have the following installed on your local machine:
 - Java 17 & Maven (for backend)
 - MySQL
 - Docker (for containerization)
+- Kubectl (for Kubernetes)
 
 ### Steps to Run Locally
 
@@ -45,6 +46,20 @@ npm install
 npm start
 ```
 **Access the Application**
-Frontend: http://localhost:3000
-Backend API: http://localhost:8080
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:8080
 
+🚀 DevOps Tools Used
+
+DevOps & Infrastructure
+- Version Control: GitHub
+- CI/CD Pipeline: Jenkins
+- Infrastructure as Code (IaC): Terraform
+- Containerization: Docker
+- Orchestration: Kubernetes (AWS EKS)
+- Security & Code Analysis: SonarQube
+- Artifact Management: Nexus Repository
+  
+**
+License**
+This project is licensed under the MIT License.
