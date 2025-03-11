@@ -58,7 +58,6 @@ npm start
 **Access the Application**
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8080
-
-  ###  <h3>📜 License</h3>
-
-This project is licensed under the MIT License.
+  
+### 📜License
+- This project is licensed under the MIT License.
