@@ -1,7 +1,7 @@
 # FullStack Blogging App
 
 ## Project Overview
-This is a full-stack blogging application with a **CI/CD** pipeline for automated deployment. This application allows users to register, log in, create blog posts, and explore content. It is designed using modern web technologies and DevOps best practices.
+This is a full-stack blogging application with a **CI/CD** pipeline for automated deployment. This application allows users to register, log in, create blog posts, and explore content.
 
 ## 🚀 CI/CD Pipeline Architecture
 Below is the CI/CD pipeline implemented for automated build, test, and deployment:  
@@ -45,6 +45,6 @@ npm install
 npm start
 ```
 **Access the Application**
--> Frontend: http://localhost:3000
--> Backend API: http://localhost:8080
+Frontend: http://localhost:3000
+Backend API: http://localhost:8080
 
