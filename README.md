@@ -10,7 +10,7 @@ Below is the CI/CD pipeline implemented for automated build, test, and deploymen
 
 ---
 
-🛠️ DevOps Tools Explored
+### 🛠️ DevOps Tools Explored
 
 - Version Control: GitHub
 - CI/CD Pipeline: Jenkins
